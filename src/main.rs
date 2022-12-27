@@ -15,10 +15,10 @@ mod config;
 #[derive(Parser, Debug)]
 #[command(author, version, about, long_about = None)]
 struct Cli {
-    /// Description of the command to execute
+    /// The Program description for what it does.
     prompt: Vec<String>,
 
-    /// Run the generated program without asking for confirmation
+    /// Run the proposed program without a confirmation
     #[clap(short = 'y', long)]
     force: bool,
 }

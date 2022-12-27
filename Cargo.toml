@@ -1,14 +1,14 @@
 [package]
-name = "plz"
+name = "please"
 license = "MIT"
 edition = "2021"
 version = "0.1.0"
 readme = "README.md"
 categories = ["command-line-utilities"]
-homepage = "https://github.com/m1guelpf/plz-cli"
-repository = "https://github.com/m1guelpf/plz-cli"
-authors = ["Miguel Piedrafita <soy@miguelpiedrafita.com>"]
-description = "Generate bash scripts from the command line, using Codex"
+homepage = "https://github.com/rookasrudzianskas/please-cli"
+repository = "https://github.com/rookasrudzianskas/please-cli"
+authors = ["Rokas Rudzianskas <rokas.rudzenskas@gmail.com>"]
+description = "Use Codex to create bash scripts from the command line."
 
 [dependencies]
 question = "0.2.2"

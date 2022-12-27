@@ -4,10 +4,10 @@ A CLI tool that generates shell scripts from a human readable description.
 
 ## Installation
 
-You can install `plz` by running the following command in your terminal.
+You can install `please` by running the following command in your terminal.
 
 ```
-curl -fsSL https://raw.githubusercontent.com/m1guelpf/plz-cli/main/install.sh | sh -
+curl -fsSL https://raw.githubusercontent.com/rookasrudzianskas/please-cli/main/install.sh | sh -
 ```
 
 You may need to close and reopen your terminal after installation. Alternatively, you can download the binary corresponding to your OS from the [latest release](https://github.com/m1guelpf/plz-cli/releases/latest).
@@ -25,7 +25,7 @@ Once you have configured your environment, run `plz` followed by whatever it is 
 To get a full overview of all available options, run `plz --help`
 
 ```sh
-$ plz --help
+$ please --help
 Generates bash scripts from the command line
 
 Usage: plz [OPTIONS] <PROMPT>
