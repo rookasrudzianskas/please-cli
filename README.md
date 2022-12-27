@@ -30,7 +30,7 @@ To get a full overview of all available options, run `plz --help`
 $ please --help
 Generates bash scripts from the command line
 
-Usage: plz [OPTIONS] <PROMPT>
+Usage: please [OPTIONS] <PROMPT>
 
 Arguments:
   <PROMPT>  Description of the command to execute
