@@ -2,7 +2,7 @@
 
 ### 🔴 Work in Progress, do not use it until it comes out from beta 🔴
 
-A CLI tool that generates shell scripts from a human readable description.
+A CLI tool that generates shell scripts from a human-readable description.
 
 ## Installation
 
