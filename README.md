@@ -41,6 +41,11 @@ Options:
   -V, --version  Print version information
 ```
 
+## Online Crate
+
+If you want to download it for your project (beta), you can do this by following [visit crates.io](https://crates.io/crates/please-cli).
+Or you can download it straight from my GitHub account [Rokas Rudzianskas GitHub](https://github.com/rookasrudzianskas).
+
 ## Develop
 
 Make sure you have the latest version of rust installed (use [rustup](https://rustup.rs/)). Then, you can build the project by running `cargo build`, and run it with `cargo run`.
